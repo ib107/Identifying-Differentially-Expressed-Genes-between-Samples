@@ -46,12 +46,13 @@ The results indicate dynamic gene expression changes during velum development, w
 
 ### Repository Structure
 ```
-├── Data/              # Bash Output Feature Count data
-├── Scripts/           # Python/R scripts for analysis
-├── Results/           # Output files including DEG lists
-├── Figures/           # Plots (volcano, smear, venn diagrams)
-├── README.md          # Project documentation
-├── Assignment2.pdf    # Full assignment write-up
+├── featureGenecount.txt/     # Bash Output Feature Count data
+├── DGE_analysis.sh           # Bash Script file
+├── Visualizations.R          # R Script file
+├── Results/                  # Output files including DEG lists
+├── Figures/                  # Plots (volcano, smear, venn diagrams)
+├── README.md                 # Project documentation
+├── Assignment2.pdf           # Full assignment write-up
 ```
 
 ### How to Reproduce
